@@ -1,0 +1,135 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.Head
+{
+   background-color:rgb(191, 158, 75);
+   padding:30px;
+   text-align:center;
+}
+.lights
+{
+    background-color: rgb(191, 158, 75);
+    display:inline-block;
+    padding:10px;
+    margin-top:80px;
+    margin-left:305px;
+    width: 125px;
+    text-align:center;
+    border-radius: 25px;
+}
+.lights:hover
+{
+    cursor: pointer;
+    color:white;
+}
+.FANS
+{
+    background-color: rgb(191, 158, 75);
+    display:inline-block;
+    padding:10px;
+    margin-top:80px;
+    margin-left:100px;
+    width: 125px;
+    text-align:center;
+    border-radius: 25px;
+}
+.FANS:hover
+{
+    cursor: pointer;
+    color:white;
+}
+.AC
+{
+    background-color: rgb(191, 158, 75);
+    display:inline-block;
+    padding:10px;
+    margin-top:80px;
+    margin-left:100px;
+    width: 125px;
+    text-align:center;
+    border-radius: 25px;
+}
+.AC:hover
+{
+    cursor: pointer;
+    color:white;
+}
+.SMART
+{
+    background-color:rgb(191, 158, 75);
+    display:inline-block;
+    padding:10px;
+    margin-top:80px;
+    margin-left:100px;
+    width: 125px;
+    text-align:center;
+    border-radius: 25px;
+}
+.SMART:hover
+{
+    cursor: pointer;
+    color:white;
+}
+.fun1
+{
+    background-color:rgb(131, 203, 226);
+    width:600px;
+    margin-top:80px;
+    margin-left:456.9px;
+    padding:10px;
+    border-radius: 15px;
+}
+h4{
+    margin-top:5px;
+}
+h3{
+    margin-top:5px;
+    background-color:rgb(191, 158, 75);
+    padding:10px;
+    display:inline-block;
+    border-radius: 30px;
+}
+.fun2
+{
+    background-color:rgb(131, 203, 226);
+    width:600px;
+    margin-top:80px;
+    margin-left:456.9px;
+    padding:10px;
+    border-radius: 15px;
+}
+.fun3
+{
+    background-color:rgb(131, 203, 226);
+    width:600px;
+    margin-top:80px;
+    margin-left:456.9px;
+    padding:10px;
+    border-radius: 15px;
+}
+.fun4
+{
+    background-color:rgb(131, 203, 226);
+    width:600px;
+    margin-top:80px;
+    margin-left:456.9px;
+    padding:10px;
+    border-radius: 15px;
+}
+.fun5
+{
+    background-color:rgb(131, 203, 226);
+    width:600px;
+    margin-top:80px;
+    margin-left:456.9px;
+    padding:10px;
+    border-radius: 15px;
+}
+h2:hover
+{
+    cursor: pointer;
+    color:white;
+}
